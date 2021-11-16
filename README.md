@@ -29,7 +29,7 @@ I hope you can find something useful, or at least interesting.
 
 * [AXOLOTL](https://devpost.com/software/axolotl)
 * [blobfishes](https://github.com/aquariophilie/blobfishes)
-* [Moebius-Sail](https://gmacario.github.io/spaceappschallenge-2019/)
+* [Moebius-Sail](https://github.com/gmacario/spaceappschallenge-2019)
 * [HACKAFAKE](https://github.com/hackafake)
 * [Dansuma](https://github.com/kuruho/dansuma)
 * [lora-shield](https://github.com/gmacario/lora-shield)
