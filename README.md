@@ -27,11 +27,10 @@ I hope you can find something useful, or at least interesting.
 
 #### ⚡ Fun projects I have worked on
 
-* [AXOLOTL](https://devpost.com/software/axolotl)
-* [blobfishes](https://github.com/aquariophilie/blobfishes)
-* [Moebius-Sail](https://github.com/gmacario/spaceappschallenge-2019)
-* [HACKAFAKE](https://github.com/hackafake)
-* [Dansuma](https://github.com/kuruho/dansuma)
-* [WTF: What I Forgot?](https://github.com/gmacario/wtf-docs)
+* Hackathons in 2021: [AXOLOTL](https://devpost.com/software/axolotl), [blobfishes](https://github.com/aquariophilie/blobfishes)
+* Hackathons in 2019: [Moebius-Sail](https://github.com/gmacario/spaceappschallenge-2019)
+* Hackathons in 2018: [HACKAFAKE](https://github.com/hackafake) (winner)
+* Hackathons in 2017: [Dansuma](https://github.com/kuruho/dansuma) (winner)
+* Hackathons in 2016: [WTF: What I Forgot?](https://github.com/gmacario/wtf-docs) (winner)
 
 <!-- EOF -->
