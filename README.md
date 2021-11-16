@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub profile!
+
+I hope you can find something useful, or at least interesting.
+
+#### 📫 How to reach me
+
+* [Gianpaolo Macario's blog](https://gmacario.github.io/)
+* [LinkedIn](http://it.linkedin.com/in/gmacario/)
+* [Twitter](https://www.twitter.com/gpmacario)
+
+#### ⚡ Fun projects I have worked on
+
+* [AXOLOTL](https://devpost.com/software/axolotl)
+* [blobfishes](https://github.com/aquariophilie/blobfishes)
+* [Moebius-Sail](https://gmacario.github.io/spaceappschallenge-2019/)
+* [HACKAFAKE](https://github.com/hackafake)
+* [Dansuma](https://github.com/kuruho/dansuma)
+* [lora-shield](https://github.com/gmacario/lora-shield)
+* [WTF: What I Forgot?](https://github.com/gmacario/wtf-docs)
+
+<!-- EOF -->
