@@ -27,7 +27,7 @@ I hope you can find something useful, or at least interesting.
 
 #### ⚡ Fun projects I have worked on
 
-* Hackathons in 2021: [AXOLOTL](https://devpost.com/software/axolotl), [blobfishes](https://github.com/aquariophilie/blobfishes)
+* Hackathons in 2021: [AXOLOTL](https://devpost.com/software/axolotl), [blobfishes](https://github.com/aquariophilie/blobfishes), [Reply Cyber Security Challenge 2021](https://github.com/LastMinuteCoders/ctf-writeups) (top 10% of participants)
 * Hackathons in 2019: [Moebius-Sail](https://github.com/gmacario/spaceappschallenge-2019)
 * Hackathons in 2018: [HACKAFAKE](https://github.com/hackafake) (winner)
 * Hackathons in 2017: [Dansuma](https://github.com/kuruho/dansuma) (winner)
