@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile!
 
-I hope you can find something useful, or at least interesting.
+I hope you can find something useful, or at least interesting here.
 
 #### 📫 How to reach me
 
