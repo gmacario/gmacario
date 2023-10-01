@@ -35,4 +35,8 @@ I hope you can find something useful, or at least interesting here.
 * Hackathons in 2017: [Dansuma](https://github.com/kuruho/dansuma) (winner)
 * Hackathons in 2016: [WTF: What I Forgot?](https://github.com/gmacario/wtf-docs) (winner)
 
+## My collection of badges
+
+[![An image of @gmacario's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmacario)](https://holopin.io/@gmacario)
+
 <!-- EOF -->
