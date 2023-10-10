@@ -37,6 +37,6 @@ I hope you can find something useful, or at least interesting here.
 
 ## My collection of badges
 
-[![An image of @gmacario's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmacario)](https://holopin.io/@gmacario)
+[![An image of @gmacario's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmacario)](https://holopin.io/@gmacario?01)
 
 <!-- EOF -->
