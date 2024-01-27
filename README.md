@@ -28,7 +28,7 @@ I hope you can find something useful, or at least interesting here.
 ## ⚡ Fun projects I have been working on
 
 * Hackathons in 2023: [FREISA](https://github.com/B-AROL-O/FREISA) (Grand Prize Winner of the [OpenCV AI Competition 2023](https://www.hackster.io/contests/opencv-ai-competition-2023))
-* Hackathons in 2022: [ARNEIS](https://github.com/B-AROL-O/ARNEIS) (winner of the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/) Popular Vote)
+* Hackathons in 2022: [ARNEIS](https://github.com/B-AROL-O/ARNEIS) (Popular Vote Winner of the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/))
 * Hackathons in 2021: [AXOLOTL](https://devpost.com/software/axolotl), [blobfishes](https://github.com/aquariophilie/blobfishes), [Reply Cyber Security Challenge 2021](https://github.com/LastMinuteCoders/ctf-writeups) (top 10% of participants)
 * Hackathons in 2019: [Moebius-Sail](https://github.com/gmacario/spaceappschallenge-2019)
 * Hackathons in 2018: [HACKAFAKE](https://github.com/hackafake) (winner)
