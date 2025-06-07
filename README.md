@@ -27,6 +27,10 @@ I hope you can find something useful, or at least interesting here.
 
 ## ⚡ Fun projects I have been working on
 
+### Projects started in 2025
+
+TODO
+
 ### Projects started in 2024
 
 * [AMARONE](https://www.hackster.io/517529/amarone-185a16) (Submitted to the [AMD Pervasive AI Developer Contest](https://www.hackster.io/contests/amd2023))
