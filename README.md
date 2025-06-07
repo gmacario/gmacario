@@ -33,6 +33,7 @@ I hope you can find something useful, or at least interesting here.
 * [NASA Space ROS Sim Summer Sprint Challenge](https://www.freelancer.com/contest/NASA-Space-ROS-Sim-Summer-Sprint-Challenge-2417552)
 * [NASA Space Apps Challenge](https://www.spaceappschallenge.org/nasa-space-apps-2024/) (Mentor at local event c/o [I3P Torino](https://www.spaceappschallenge.org/nasa-space-apps-2024/2024-local-events/turin/))
 * [Hacktoberfest 2024](https://hacktoberfest.com/) (both participant and project maintainer)
+* [CHIANTI](https://devpost.com/software/boh-8h74sc) - Submitted to [Codegeist 2024](https://codegeist.devpost.com/)
 
 ### Projects started in 2023
 
