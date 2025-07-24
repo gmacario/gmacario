@@ -29,7 +29,7 @@ I hope you can find something useful, or at least interesting here.
 
 ### Projects started in 2025
 
-TODO
+* [simple-calculator](https://huggingface.co/spaces/Agents-MCP-Hackathon/simple-calculator) (Submitted to the [Gradio Agents & MCP Hackathon 2025](https://huggingface.co/Agents-MCP-Hackathon))
 
 ### Projects started in 2024
 
