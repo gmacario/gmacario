@@ -23,21 +23,24 @@ I hope you can find something useful, or at least interesting here.
 
 - [Gianpaolo Macario's blog](https://gmacario.github.io/)
 - [LinkedIn](http://it.linkedin.com/in/gmacario/)
-- [Twitter](https://www.twitter.com/gpmacario)
+- [X ~~Twitter~~](https://www.twitter.com/gpmacario)
 
 ## ⚡ Fun projects I have been working on
 
 ### Projects started in 2025
 
-- [simple-calculator](https://huggingface.co/spaces/Agents-MCP-Hackathon/simple-calculator) (Submitted to the [Gradio Agents & MCP Hackathon 2025](https://huggingface.co/Agents-MCP-Hackathon))
+- [simple-calculator](https://huggingface.co/spaces/Agents-MCP-Hackathon/simple-calculator) (submitted to the [Gradio Agents & MCP Hackathon 2025](https://huggingface.co/Agents-MCP-Hackathon))
+- [FREISA-GPT](https://devpost.com/software/todo-hsifwn) (submitted to the [OpenAI Open Model Hackathon](https://openai.devpost.com))
+- [Hacktoberfest 2025](https://hacktoberfest.com/) (both participant and project maintainer)
+
 
 ### Projects started in 2024
 
-- [AMARONE](https://www.hackster.io/517529/amarone-185a16) (Submitted to the [AMD Pervasive AI Developer Contest](https://www.hackster.io/contests/amd2023))
+- [AMARONE](https://www.hackster.io/517529/amarone-185a16) (submitted to the [AMD Pervasive AI Developer Contest](https://www.hackster.io/contests/amd2023))
 - [NASA Space ROS Sim Summer Sprint Challenge](https://www.freelancer.com/contest/NASA-Space-ROS-Sim-Summer-Sprint-Challenge-2417552)
 - [NASA Space Apps Challenge](https://www.spaceappschallenge.org/nasa-space-apps-2024/) (Mentor at local event c/o [I3P Torino](https://www.spaceappschallenge.org/nasa-space-apps-2024/2024-local-events/turin/))
 - [Hacktoberfest 2024](https://hacktoberfest.com/) (both participant and project maintainer)
-- [CHIANTI](https://devpost.com/software/boh-8h74sc) - Submitted to [Codegeist 2024](https://codegeist.devpost.com/)
+- [CHIANTI](https://devpost.com/software/boh-8h74sc) (submitted to [Codegeist 2024](https://codegeist.devpost.com/))
 
 ### Projects started in 2023
 
@@ -51,8 +54,8 @@ I hope you can find something useful, or at least interesting here.
 
 ### Projects started in 2021
 
-- [AXOLOTL](https://devpost.com/software/axolotl) (Submitted to [Codegeist 2021](https://codegeist2021.devpost.com/))
-- [blobfishes](https://github.com/aquariophilie/blobfishes) (Submitted to [DigitalOcean MongoDB Hackathon](https://www.digitalocean.com/mongodb-hackathon/))
+- [AXOLOTL](https://devpost.com/software/axolotl) (submitted to [Codegeist 2021](https://codegeist2021.devpost.com/))
+- [blobfishes](https://github.com/aquariophilie/blobfishes) (submitted to [DigitalOcean MongoDB Hackathon](https://www.digitalocean.com/mongodb-hackathon/))
 - [Reply Cyber Security Challenge 2021](https://github.com/LastMinuteCoders/ctf-writeups) (top 10% of participants)
 - [Hacktoberfest 2021](https://www.youtube.com/watch?v=JZeHxbLm_IQ)
 
@@ -62,7 +65,7 @@ I hope you can find something useful, or at least interesting here.
 
 ### Projects started in 2019
 
-- [Moebius-Sail](https://github.com/gmacario/spaceappschallenge-2019) (Submitted to [NASA International Space Apps Challenge 2019](https://2019.spaceappschallenge.org/locations/turin/))
+- [Moebius-Sail](https://github.com/gmacario/spaceappschallenge-2019) (submitted to [NASA International Space Apps Challenge 2019](https://2019.spaceappschallenge.org/locations/turin/))
 - [Hacktoberfest 2019](https://www.youtube.com/watch?v=dyrCxByo7zE)
 
 ### Projects started in 2018
