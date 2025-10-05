@@ -32,7 +32,7 @@ I hope you can find something useful, or at least interesting here.
 - [simple-calculator](https://huggingface.co/spaces/Agents-MCP-Hackathon/simple-calculator) (submitted to the [Gradio Agents & MCP Hackathon 2025](https://huggingface.co/Agents-MCP-Hackathon))
 - [FREISA-GPT](https://devpost.com/software/todo-hsifwn) (submitted to the [OpenAI Open Model Hackathon](https://openai.devpost.com))
 - [Hacktoberfest 2025](https://hacktoberfest.com/) (both participant and project maintainer)
-
+- [BeezzaAnts](https://github.com/B-AROL-O/BeezzaAnts/tree/main/3-beezza-ants) (submitted to [Tiny_Hack_v1](https://github.com/MirkoCalvi/tiny_hack) organized by [FocoosAI](https://focoos.ai/) and [Z-Ant Foundation](https://zantfoundation.github.io/Website/) with support from [Arduino](https://www.arduino.cc/), [Datapizza](https://datapizza.tech/), [Toolbox Coworking](https://toolboxcoworking.com/) and [Vento Ventures](https://www.vento.ventures/))
 
 ### Projects started in 2024
 
