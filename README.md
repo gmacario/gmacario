@@ -33,11 +33,7 @@ I hope you can find something useful, or at least interesting here.
 - [FREISA-GPT](https://devpost.com/software/todo-hsifwn) (submitted to the [OpenAI Open Model Hackathon](https://openai.devpost.com))
 - [Hacktoberfest 2025](https://hacktoberfest.com/) (both participant and project maintainer)
 - [BeezzaAnts](https://github.com/B-AROL-O/BeezzaAnts/tree/main/3-beezza-ants) (submitted to [Tiny_Hack_v1](https://github.com/MirkoCalvi/tiny_hack))
-  <!-- organized by [FocoosAI](https://focoos.ai/) and [Z-Ant Foundation](https://zantfoundation.github.io/Website/)
-  with support from [Arduino](https://www.arduino.cc/),
-  [Datapizza](https://datapizza.tech/), [Toolbox Coworking](https://toolboxcoworking.com/)
-  and [Vento Ventures](https://www.vento.ventures/) -->
-  - [RUCHE](https://github.com/B-AROL-O/RUCHE) (submitted to the [MCP-1st-Birthday](https://huggingface.co/MCP-1st-Birthday) Virtual Hackathon)
+- [RUCHE](https://github.com/B-AROL-O/RUCHE) (submitted to [MCP-1st-Birthday](https://huggingface.co/MCP-1st-Birthday) Virtual Hackathon)
 
 ### Projects started in 2024
 
