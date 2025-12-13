@@ -37,6 +37,7 @@ I hope you can find something useful, or at least interesting here.
   with support from [Arduino](https://www.arduino.cc/),
   [Datapizza](https://datapizza.tech/), [Toolbox Coworking](https://toolboxcoworking.com/)
   and [Vento Ventures](https://www.vento.ventures/) -->
+  - [RUCHE](https://github.com/B-AROL-O/RUCHE) (submitted to the [MCP-1st-Birthday](https://huggingface.co/MCP-1st-Birthday) Virtual Hackathon)
 
 ### Projects started in 2024
 
