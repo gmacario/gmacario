@@ -34,6 +34,7 @@ I hope you can find something useful, or at least interesting here.
 - [Hacktoberfest 2025](https://hacktoberfest.com/) (both participant and project maintainer)
 - [BeezzaAnts](https://github.com/B-AROL-O/BeezzaAnts/tree/main/3-beezza-ants) (submitted to [Tiny_Hack_v1](https://github.com/MirkoCalvi/tiny_hack))
 - [RUCHE](https://github.com/B-AROL-O/RUCHE) (submitted to [MCP-1st-Birthday](https://huggingface.co/MCP-1st-Birthday) Virtual Hackathon)
+- [Advent of Code 2025](https://github.com/B-AROL-O/advent-of-code/tree/main/2025/gmacario)
 
 ### Projects started in 2024
 
@@ -42,6 +43,7 @@ I hope you can find something useful, or at least interesting here.
 - [NASA Space Apps Challenge](https://www.spaceappschallenge.org/nasa-space-apps-2024/) (Mentor at local event c/o [I3P Torino](https://www.spaceappschallenge.org/nasa-space-apps-2024/2024-local-events/turin/))
 - [Hacktoberfest 2024](https://hacktoberfest.com/) (both participant and project maintainer)
 - [CHIANTI](https://devpost.com/software/boh-8h74sc) (submitted to [Codegeist 2024](https://codegeist.devpost.com/))
+- [Advent of Code 2024](https://github.com/B-AROL-O/advent-of-code/tree/main/2024/gmacario)
 
 ### Projects started in 2023
 
