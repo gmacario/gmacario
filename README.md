@@ -29,7 +29,7 @@ I hope you can find something useful, or at least interesting here.
 
 ### Projects started in 2026
 
-- [publish-md-pdf](https://github.com/B-AROL-O/publish-md-pdf/)
+- [`publish-md-pdf`](https://github.com/B-AROL-O/publish-md-pdf/)
 - [Hacktoberfest 2026](https://hacktoberfest.com/)
 - [PoopVolt](https://devpost.com/software/poopvolt) (submitted to [hackTurin 2026](https://luma.com/t2odor1k))
 
