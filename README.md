@@ -19,13 +19,19 @@ Welcome to my GitHub profile!
 
 I hope you can find something useful, or at least interesting here.
 
-## 📫 How to reach me
+## 📫 How to get in touch
 
-- [Gianpaolo Macario's blog](https://gmacario.github.io/)
+- [Gianpaolo Macario's blog](https://blog.gmacario.it/)
 - [LinkedIn](http://it.linkedin.com/in/gmacario/)
 - [X ~~Twitter~~](https://www.twitter.com/gpmacario)
 
 ## ⚡ Fun projects I have been working on
+
+### Projects started in 2026
+
+- [PoopVolt](https://devpost.com/software/poopvolt) (submitted to [hackTurin 2026](https://luma.com/t2odor1k))
+- [Hacktoberfest 2026](https://hacktoberfest.com/)
+- [publish-md-pdf](https://github.com/B-AROL-O/publish-md-pdf/)
 
 ### Projects started in 2025
 
@@ -85,8 +91,10 @@ I hope you can find something useful, or at least interesting here.
 
 - [WTF: What I Forgot?](https://github.com/gmacario/wtf-docs) (Winner at [Hackathon Droidcon Italy 2016](https://it.droidcon.com/2016/hackathon-droidcon-italy/index.html))
 
+<!--
 ## My collection of badges
 
 [![An image of @gmacario's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmacario)](https://holopin.io/@gmacario)
+-->
 
 <!-- EOF -->
