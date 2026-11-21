@@ -32,6 +32,7 @@ I hope you can find something useful, or at least interesting here.
 - [`publish-md-pdf`](https://github.com/B-AROL-O/publish-md-pdf/)
 - [Hacktoberfest 2026](https://hacktoberfest.com/)
 - [PoopVolt](https://devpost.com/software/poopvolt) (submitted to [hackTurin 2026](https://luma.com/t2odor1k))
+- [Agenthon-2026 Track 2](https://github.com/B-AROL-O/agenthon-2026) (GenAI for marketing, submitted to the GDG Torino ["Build with AI" Agenthon](https://agenthon.gdgtorino.it/))
 
 ### Projects started in 2025
 
